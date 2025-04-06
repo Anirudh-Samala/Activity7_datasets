@@ -1,0 +1,101 @@
+Product_Category,Sales_Channel,Region,Customer_Age_Group,Quantity_Sold
+Home & Furniture,In-Store,East,36-45,1
+Sports,Online,North,46-60,8
+Groceries,Online,South,18-25,1
+Sports,In-Store,North,18-25,9
+Sports,In-Store,North,26-35,6
+Clothing,In-Store,East,26-35,7
+Groceries,Online,South,36-45,7
+Groceries,In-Store,West,46-60,3
+Groceries,Online,West,26-35,2
+Sports,Online,East,18-25,9
+Home & Furniture,In-Store,East,46-60,8
+Groceries,In-Store,South,46-60,7
+Sports,Online,West,18-25,9
+Clothing,Online,West,26-35,4
+Home & Furniture,In-Store,West,18-25,4
+Clothing,In-Store,North,46-60,1
+Home & Furniture,In-Store,West,60+,8
+Sports,Online,North,60+,3
+Electronics,Online,South,36-45,7
+Home & Furniture,Online,North,18-25,2
+Clothing,Online,South,18-25,2
+Sports,Online,West,36-45,7
+Home & Furniture,Online,West,36-45,6
+Electronics,In-Store,South,36-45,3
+Electronics,Online,East,46-60,9
+Groceries,Online,South,18-25,6
+Groceries,Online,East,46-60,6
+Clothing,In-Store,North,36-45,1
+Home & Furniture,Online,North,18-25,4
+Home & Furniture,Online,North,46-60,6
+Groceries,In-Store,West,46-60,6
+Home & Furniture,Online,North,36-45,5
+Home & Furniture,Online,East,18-25,1
+Electronics,Online,North,36-45,8
+Groceries,Online,South,18-25,5
+Sports,Online,South,60+,5
+Groceries,In-Store,West,26-35,7
+Sports,In-Store,South,26-35,4
+Electronics,In-Store,East,26-35,6
+Clothing,Online,North,36-45,4
+Home & Furniture,Online,West,60+,3
+Electronics,Online,North,18-25,7
+Home & Furniture,In-Store,North,46-60,8
+Clothing,Online,East,18-25,4
+Clothing,Online,South,46-60,2
+Electronics,In-Store,South,18-25,3
+Clothing,Online,North,60+,1
+Sports,In-Store,West,46-60,8
+Clothing,In-Store,South,36-45,3
+Home & Furniture,In-Store,West,18-25,7
+Home & Furniture,Online,South,18-25,5
+Home & Furniture,Online,West,46-60,5
+Home & Furniture,Online,East,36-45,7
+Sports,Online,West,36-45,9
+Groceries,Online,East,60+,5
+Electronics,Online,East,36-45,1
+Home & Furniture,Online,West,36-45,1
+Clothing,In-Store,East,36-45,2
+Home & Furniture,Online,North,26-35,6
+Clothing,In-Store,East,60+,9
+Clothing,Online,South,18-25,8
+Home & Furniture,Online,West,46-60,5
+Sports,Online,North,18-25,1
+Clothing,In-Store,West,60+,7
+Clothing,In-Store,South,46-60,5
+Home & Furniture,In-Store,South,60+,6
+Clothing,In-Store,South,36-45,7
+Clothing,Online,East,46-60,3
+Home & Furniture,In-Store,East,36-45,3
+Home & Furniture,Online,West,18-25,5
+Electronics,Online,West,18-25,6
+Sports,In-Store,North,46-60,9
+Sports,In-Store,North,46-60,5
+Clothing,In-Store,West,60+,1
+Sports,In-Store,East,60+,4
+Clothing,In-Store,South,36-45,5
+Electronics,In-Store,West,46-60,5
+Home & Furniture,In-Store,North,18-25,7
+Home & Furniture,In-Store,East,60+,4
+Home & Furniture,Online,West,60+,1
+Sports,In-Store,West,18-25,5
+Electronics,In-Store,East,60+,7
+Sports,Online,West,36-45,6
+Sports,In-Store,East,46-60,5
+Electronics,Online,South,18-25,4
+Electronics,Online,East,46-60,2
+Electronics,In-Store,East,60+,4
+Electronics,Online,East,60+,3
+Home & Furniture,Online,West,18-25,1
+Groceries,Online,West,36-45,8
+Groceries,Online,East,26-35,5
+Electronics,In-Store,West,18-25,4
+Groceries,Online,North,26-35,8
+Groceries,In-Store,North,26-35,7
+Electronics,Online,West,36-45,2
+Groceries,Online,West,26-35,1
+Sports,Online,East,26-35,4
+Clothing,Online,South,36-45,8
+Clothing,In-Store,West,26-35,2
+Electronics,In-Store,North,26-35,3
